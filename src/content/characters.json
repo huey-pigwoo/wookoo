@@ -1,0 +1,12 @@
+[
+    { "row": "あ", "hiragana": "あ", "katakana": "ア", "romaji": "a" },
+    { "row": "い", "hiragana": "い", "katakana": "イ", "romaji": "i" },
+    { "row": "う", "hiragana": "う", "katakana": "ウ", "romaji": "u" },
+    { "row": "え", "hiragana": "え", "katakana": "エ", "romaji": "e" },
+    { "row": "お", "hiragana": "お", "katakana": "オ", "romaji": "o" },
+    { "row": "か", "hiragana": "か", "katakana": "カ", "romaji": "ka" },
+    { "row": "き", "hiragana": "き", "katakana": "キ", "romaji": "ki" },
+    { "row": "く", "hiragana": "く", "katakana": "ク", "romaji": "ku" },
+    { "row": "け", "hiragana": "け", "katakana": "ケ", "romaji": "ke" },
+    { "row": "こ", "hiragana": "こ", "katakana": "コ", "romaji": "ko" }
+]

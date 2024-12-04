@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "word": "猫",
+        "kana": "ねこ",
+        "romaji": "neko",
+        "meaning": "cat"
+    },
+    {
+        "id": "2",
+        "word": "犬",
+        "kana": "いぬ",
+        "romaji": "inu",
+        "meaning": "dog"
+    }
+]

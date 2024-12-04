@@ -1,0 +1,30 @@
+{
+    "headers": ["", "a", "i", "u", "e", "o"],
+    "rows": [
+      { "rowName": "k", "columns": ["か", "き", "く", "け", "こ"] },
+      { "rowName": "s", "columns": ["さ", "し", "す", "せ", "そ"] },
+      { "rowName": "t", "columns": ["た", "ち", "つ", "て", "と"] },
+      { "rowName": "n", "columns": ["な", "に", "ぬ", "ね", "の"] },
+      { "rowName": "h", "columns": ["は", "ひ", "ふ", "へ", "ほ"] },
+      { "rowName": "m", "columns": ["ま", "み", "む", "め", "も"] },
+      { "rowName": "y", "columns": ["や", "", "ゆ", "", "よ"] },
+      { "rowName": "r", "columns": ["ら", "り", "る", "れ", "ろ"] },
+      { "rowName": "w", "columns": ["わ", "", "", "", "を"] },
+      { "rowName": "", "columns": ["ん", "", "", "", ""] }
+    ],
+    "romaji": {
+      "headers": ["", "a", "i", "u", "e", "o"],
+      "rows": [
+        { "rowName": "k", "columns": ["ka", "ki", "ku", "ke", "ko"] },
+        { "rowName": "s", "columns": ["sa", "shi", "su", "se", "so"] },
+        { "rowName": "t", "columns": ["ta", "chi", "tsu", "te", "to"] },
+        { "rowName": "n", "columns": ["na", "ni", "nu", "ne", "no"] },
+        { "rowName": "h", "columns": ["ha", "hi", "fu", "he", "ho"] },
+        { "rowName": "m", "columns": ["ma", "mi", "mu", "me", "mo"] },
+        { "rowName": "y", "columns": ["ya", "", "yu", "", "yo"] },
+        { "rowName": "r", "columns": ["ra", "ri", "ru", "re", "ro"] },
+        { "rowName": "w", "columns": ["wa", "", "", "", "wo"] },
+        { "rowName": "", "columns": ["n", "", "", "", ""] }
+      ]
+    }
+  }
